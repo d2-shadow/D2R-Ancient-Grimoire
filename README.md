@@ -9,7 +9,7 @@ When closing and then opening the menu, your last selected tab is still selected
 You can access Runewords, Rune List, and Recipes via main menu by clicking the **Ancient Grimoire** button.
 
 ## How to install
-1. Download **[AncientGrimoire.zip](https://github.com/d2-shadow/D2R-Ancient-Grimoire/releases/download/v1.0/AncientGrimoire.zip)**.
+1. Download **[AncientGrimoire.zip](https://github.com/d2-shadow/D2R-Ancient-Grimoire/releases/latest/download/AncientGrimoire.zip)**.
 2. Open BNET agent.
 3. Navigate to ***Diablo II: Resurrected*** Tab.
 4. Click the Gear Icon next to the ***Play*** button.
