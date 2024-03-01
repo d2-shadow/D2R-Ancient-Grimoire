@@ -1,6 +1,9 @@
 ## Disclaimer
 **The risk with using this on BNET is unclear. So if you're paranoid, DON'T use this outside of Single Player.**
 
+## *** Notice *** (Feburary 25th 2024)
+Please download the current release of Ancient Grimoire. There was a typo for the rune order of Mosaic, which I fixed in this new version.
+
 ## Known Issue
 ### Issue with tab selection
 When closing and then opening the menu, your last selected tab is still selected even though the first tab is loaded. Switch tabs to correct this. I don't know how to fix this unfortunately.
