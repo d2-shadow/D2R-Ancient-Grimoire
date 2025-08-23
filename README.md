@@ -33,6 +33,6 @@ You can access Runewords, Rune List, and Recipes via main menu by clicking the *
 - **Blizzard** - Patch blog posts primarily.
 
 ## A little self-promo
-I work on the YouTube channel [Warth3ory](https://www.youtube.com/@Warth3ory?sub_confirmation=1).
-Me and Theory collaborate on videos, you can check us out here.
+I work on the YouTube channel [Th3ory](https://www.youtube.com/@warthetwise?sub_confirmation=1) (now War the Wise) sometimes.
+Me and Theory collaborate on videos, you can check out the channel here.
 We like doing projects like these for the community. :)
